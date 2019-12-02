@@ -1,0 +1,8 @@
+									15-112 Project
+Game : Oni and the Magical Forest
+
+Prerequisite Library:
+	1. pygame
+
+In order to play the game run the Main File.py.
+For the game to work properly all the sprites must be in their respective folders.
